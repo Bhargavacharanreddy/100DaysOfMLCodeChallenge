@@ -6,3 +6,10 @@
 **Thoughts :** 
 
 **Link of Work:** 
+
+## Day 1 : July 10 , 2018
+**Today's Progress :**  This is my first day of the challenge. Right now I am learning the basics of Neural Network Programming.As a part of this today I have learned about binary classification problem, Logistic Regression , Logistic Regression Cost Function and Gradient Descent. 
+
+**Thoughts :** Logistic Regression is used for Binary classification problems.It's all about Linear algebra.
+
+**Link of Work:**  I have written notes about the concepts which I have learnt today. 
