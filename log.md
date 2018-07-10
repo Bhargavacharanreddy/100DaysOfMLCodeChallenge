@@ -12,4 +12,4 @@
 
 **Thoughts :** Logistic Regression is used for Binary classification problems.It's all about Linear algebra.
 
-**Link of Work:**  I have written notes about the concepts which I have learnt today. 
+**Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/notesDay1)I have written notes about the concepts which I have learnt today. 
