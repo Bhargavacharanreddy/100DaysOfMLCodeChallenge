@@ -13,3 +13,10 @@
 **Thoughts :** Logistic Regression is used for Binary classification problems.It's all about Linear algebra.
 
 **Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/notesDay1)I have written notes about the concepts which I have learnt today. 
+
+## Day 2 : July 11 , 2018
+**Today's Progress :**  Learned about Computation Graph, Derivatives with a computation graph, Logistic Regression derivatives. 
+
+**Thoughts :** Mathematics is everything
+
+**Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/notesDay2)I have written rough notes about the concepts which I have learnt today. 
