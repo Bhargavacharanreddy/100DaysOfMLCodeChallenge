@@ -20,3 +20,11 @@
 **Thoughts :** Mathematics is everything
 
 **Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/notesDay2)I have written rough notes about the concepts which I have learnt today. 
+
+## Day 3 : July 12 , 2018
+**Today's Progress :**  Implemented Handwritten Digits Recognition in python using scikit-learn. Used MNIST dataset.Read about Numpy, Pandas, Matplotlib libraries in python. 
+
+**Thoughts :** Scikit learn is a very useful package.
+
+**Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day3) Code is written in python.
+
