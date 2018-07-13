@@ -26,5 +26,5 @@
 
 **Thoughts :** Scikit learn is a very useful package.
 
-**Link of Work:**  [Notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day3) Code is written in python.
+**Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day3) Code is written in python.
 
