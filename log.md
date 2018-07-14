@@ -28,3 +28,11 @@
 
 **Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day3) Code is written in python.
 
+## Day 4 : July 13 , 2018
+**Today's Progress :**  Today I have spent time to know about TensorFlow.Installed it and did the basic programs.
+
+**Thoughts :** It is mainly used for machine learning applications such as neural networks.
+
+**Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day4) Code is written in python.
+
+
