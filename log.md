@@ -35,4 +35,12 @@
 
 **Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day4) Code is written in python.
 
+## Day 5 : July 14 , 2018
+**Today's Progress :**  Today I have learnt about Image classification using Tensorflow by Watching a Video on youtube.
+                      [Video Source] (https://www.youtube.com/watch?v=oXpsAiSajE0)
+
+**Thoughts :** Classified the Flowers images to different Categories.(used Inception concept)
+
+**Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day5) Code is written in python.
+
 
