@@ -43,4 +43,10 @@
 
 **Link of Work:**  [code](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day5) Code is written in python.
 
+## Day 6 : July 15 , 2018
+**Today's Progress :**  Today I have learnt about Neural Network, Neural Network Representation, Activation Functions and Gradient Descent for Neural Network.
+
+**Thoughts :** I should spend more time on these concepts.
+**Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day6) 
+
 
