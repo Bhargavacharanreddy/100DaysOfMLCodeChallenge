@@ -49,4 +49,10 @@
 **Thoughts :** I should spend more time on these concepts.
 **Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day6) 
 
+## Day 7 : July 16 , 2018
+**Today's Progress :**  Today I have gone through the topics of  Regularization,Why Regularization reduces overfitting and dropout Regularization.
+
+**Thoughts :** I should spend more time on these concepts.
+**Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day7) 
+
 
