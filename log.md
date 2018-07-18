@@ -55,4 +55,8 @@
 **Thoughts :** I should spend more time on these concepts.
 **Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day7) 
 
+## Day 8 : July 17 , 2018
+**Today's Progress :**  Today I have learned about forward and Backward Propagation in Neural Network.
 
+**Thoughts :** Next week I will try to implement algorithms (Forward and Backward) Propagation.
+**Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day8) 
