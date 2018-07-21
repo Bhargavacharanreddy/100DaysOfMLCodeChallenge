@@ -60,3 +60,20 @@
 
 **Thoughts :** Next week I will try to implement algorithms (Forward and Backward) Propagation.
 **Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day8) 
+
+## Day 9 : July 18 , 2018
+**Today's Progress :**  Today I have learnt about hyper-parameters vs parameters in Neural Network.
+
+**Thoughts :** Parameters plays a great role.
+**Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day9) 
+
+## Day 10-11 : July 19,20 , 2018
+**Today's Progress :**  I have enrolled in Specialization course on Coursera.
+
+**Thoughts :** Previously I was not learning concepts in an organized manner so Now I have decided to take a specialization course.
+             Course HomePage : [Link](https://www.coursera.org/specializations/deep-learning)
+**Link of Work:**  [notes](https://github.com/cherry324/100DaysOfMLCodeChallenge/tree/master/Day9-10) 
+
+
+
+
