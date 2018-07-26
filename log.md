@@ -78,7 +78,19 @@
 **Today's Progress :**  Today I have started with Course1 ( Neural Networks and Deep Learning ) of Coursera's Deep learning Specialization Track. 
 
 **Thoughts :** I thought by posting what I learnt will help me understand well about the concepts.
+
 **Link of Work:** I have written a post about "What is a neural network?"  [Post link](https://cherrythecoder.wordpress.com/2018/07/24/what-is-a-neural-network/) 
+
+## Day 2 : July 25th, 2018
+**Today's Progress :**  Today I have finished the week1 ( Neural Networks and Deep Learning ) of Coursera's Deep learning Specialization Track. 
+
+**Thoughts :** I thought by posting what I learnt will help me understand well about the concepts.
+
+**Link of Work:** I have publised a post   [Post link](https://cherrythecoder.wordpress.com/2018/07/26/day2-100daysofmlcode-challenge/) 
+
+
+
+
 
 
 
